@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="home.component.scss">
+</head>
+<body>
+    <nav>
+        <a routerLink="../login/login.component.html"></a>
+    </nav>
+    <div>
+        <h1 *ngIf="name">Hello {{name}}</h1>
+        <h1 *ngIf="!name">No user logged in</h1>
+
+        <h1>Welcome to Job Seeker</h1>
+        <p *ngIf="!name">Haven't entered the personal area yet? We recommend you enter and be impressed.</p>
+        <p *ngIf="!name" class="nav" [routerLink]="['login']">To register and login <a style="color:red">click here</a></p>
+
+        <h2>Site features:</h2>
+        <ul>
+            <li>Job Search: Click the job field link to explore available job listings tailored to your profession.</li>
+            <li>Invoice Count: Track the number of invoices already processed in the system.</li>
+            <li>Site Logo: Click the site logo to navigate back to the login page.</li>
+        </ul>
+
+        <h3>About the site:</h3>
+        <p>
+            Welcome to JobSeeker, a dynamic platform dedicated to connecting professionals with exciting job opportunities in their field. 
+            When you log in, your personalized dashboard is waiting, displaying your username and profession of interest. 
+            Dive into our extensive job database with a simple click on the link to the job field, designed to match your career aspirations.
+        </p>
+        <p>
+            Stay on top of the number of resumes you've sent through the system, and ensure smooth tracking of your financial activities. 
+            The website logo acts as a gateway back to the login page, providing easy navigation throughout your user journey.
+        </p>
+        <p>
+            Contact the site manager:
+            For any question or assistance, do not hesitate to contact our dedicated webmaster at www.JobSeecker.co.il Your feedback and suggestions are important to us as we strive to improve your website experience.
+        </p>
+        <p>
+            Explore JobSeecker today and open up a world of career options tailored just for you.
+        </p>
+    </div>
+</body>
+</html>

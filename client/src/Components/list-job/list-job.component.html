@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="list-job.component.scss">
+
+<p>count of CV:{{countSendCv}}</p>
+
+<h2>List of jobs for your job</h2>
+
+<!-- סינון לפי אזור -->
+<div id="filterByArea">
+  <input #Area type="text" placeholder="Enter area name">
+  <button id="f-area" (click)="clickFilterByArea(Area.value)">Filter</button>
+</div>
+
+<div id="divD" *ngFor="let job of filteredJobs">
+  <p>Job name: {{ job.jobTitle | customPipe }}</p>
+
+  <button (click)="showJobDetails(job)">Show Details</button>
+  <div *ngIf="clickShowJobDetails && selectedJob === job">
+    <app-job [selectedJob]="selectedJob"></app-job>
+  </div>
+
+  <button (click)="sendCV(job)">Send CV</button>
+</div>

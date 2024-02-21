@@ -1,0 +1,22 @@
+<link rel="stylesheet" type="text/css" href="app.component.scss">
+  
+
+<div id="link">
+  <p *ngIf="name" class="name-container">Hello {{name}}</p>|
+  <a class="nav" [routerLink]="['']">Home</a> |
+  <a class="nav" [routerLink]="['login']"> <img src="../../assets/LOGO.png" alt="Logo" id="Logo"></a>|
+  <a class="nav" [routerLink]="['list-job']">List of jobs</a>|
+  <a class="nav" [routerLink]="['login']">Login</a> |
+ 
+</div>
+
+
+<router-outlet></router-outlet>
+
+<footer>
+  <p>
+    Batsheva and Pnina are builders of the site
+    <br>to contact us: www.JobSeaker.co.il
+    <br>©Pnina & Batsheva
+  </p>
+</footer>

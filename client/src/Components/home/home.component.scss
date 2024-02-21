@@ -1,0 +1,65 @@
+/* home.component.scss */
+
+/* עיצוב כללי */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  text-align: center;
+}
+
+div {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3, p, ul {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.nav a {
+  color: red;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
+
+/* עיצוב של הכותרת הראשית */
+h1:nth-of-type(1) {
+  margin-bottom: 20px;
+}
+
+/* עיצוב של הכיתוב הראשי */
+div p:nth-of-type(1) {
+  margin-bottom: 30px;
+}
+
+/* עיצוב של הכיתוב המשני */
+h2 {
+  margin-bottom: 20px;
+}
+
+/* עיצוב של הסעיפים הראשיים */
+div > p:nth-of-type(n+2), div > ul {
+  margin-bottom: 20px;
+}
+
+/* עיצוב של ההודעה האחרונה */
+div > p:last-of-type {
+  margin-bottom: 50px;
+}

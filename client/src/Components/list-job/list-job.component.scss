@@ -1,0 +1,63 @@
+
+p {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  #filterByArea {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #filterByArea input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #filterByArea button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #filterByArea button:hover {
+    background-color: #0056b3;
+  }
+  
+  div {
+    margin-top: 20px;
+  }
+  
+  /* עיצוב לאלמנטי רשימת העבודות */
+  div p {
+    font-weight: bold;
+  }
+  
+  div button {
+    padding: 5px 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  div button:hover {
+    background-color: #0056b3;
+  }
+  #divD{
+    display: block;
+
+  }

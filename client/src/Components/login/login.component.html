@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="login.component.scss">
+
+<h1 *ngIf="userDetails.name">Hello {{userDetails.name}}</h1>
+<h1 *ngIf="!name">Are you a new user and want to connect??</h1>
+<h3 *ngIf="userDetails.password">The field you are interested in is: {{userDetails.jobSearchField}}</h3>
+
+<form (ngSubmit)="login">
+    <div>
+        <label for="name">name</label>
+        <input type="text" id="name" [(ngModel)]="name" name="name">
+    </div>
+    <div>
+        <label for="password">password</label>
+        <input type="password" id="password" [(ngModel)]="password" name="password">
+    </div>
+    <div *ngIf="error" class="error">{{error}}</div>
+    <button (click)="login()" type="submit">login</button>
+
+    <div *ngIf="clicked==true"><app-list-job></app-list-job></div>
+
+</form>

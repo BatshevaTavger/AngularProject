@@ -1,0 +1,60 @@
+/* app.component.scss */
+
+/* עיצוב כולל של כל העמוד */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+#link {
+  display: flex;
+  justify-content: center; /* ייצוב באמצע */
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.nav {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+}
+
+#Logo {
+  width: 77px;
+}
+
+router-outlet {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* עיצוב מיוחד ללינקים בתוך #link */
+.nav {
+  transition: color 0.3s ease;
+}
+
+.nav:hover {
+  color: #ff5733;
+  /* דוגמה לצבע כאשר העכבר נוגע בלינק */
+}
+
+/* עיצוב עבור השם */
+.name-container {
+  margin-right: auto; /* ייצוב לצד שמאל */
+  margin-left: 20px; /* מרווח משמאל */
+}
+
+/* עיצוב עבור התוכן */
+.content {
+  margin: 20px; /* מרווח מכל הכיוונים */
+}
