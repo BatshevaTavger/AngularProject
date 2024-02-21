@@ -1,0 +1,208 @@
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\teacher\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+Z:\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+Z:\Handasa\mora\Angular\שרת רץ\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+Z:\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+Z:\Handasa\B\ובר נחמה\שנה ב\Angular\project\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+Z:\B\טבגר בת שבע\angular\פרויקט סיום חיפוש עבודה\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.StaticWebAssets.xml
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\refint\WebApplication1.dll
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\USER\Documents\תכנות שנה שניה\Angular\server\server\obj\Debug\net5.0\ref\WebApplication1.dll
